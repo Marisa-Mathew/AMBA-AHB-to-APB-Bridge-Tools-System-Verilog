@@ -1,4 +1,4 @@
-#  AHB-to-APB Bridge (SystemVerilog)
+#  AHB-to-APB Bridge (Verilog)
 
 ##  Overview
 This project implements an **AMBA AHB-to-APB Bridge** in **Verilog**, which acts as an interface between the **high-performance AHB bus** and the **low-power APB bus**.  
